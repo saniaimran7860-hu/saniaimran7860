@@ -17,7 +17,9 @@ My GitHub Profile
 
 ## 📌 Projects
 - [Rule-Based AI Chatbot](https://github.com/YOUR_USERNAME/decodelab.internship) - Python chatbot using if-else and dictionaries
-- [Data Classification Using AI](https://github.com/YOUR_USERNAME/decodelab.internship) - Iris dataset classification using KNN (100% accuracy)
+- [Data Classification Using AI](https://github.com/YOUR_USERNAME/decodelab.internship) - Iris dataset classification using KNN (100% accuracy) 
+- Files: `Project3_Recommender/raw_skills.csv`, `recommender.py`
+- Tech Stack Recommender using TF-IDF and Cosine Similarity.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
